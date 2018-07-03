@@ -1,5 +1,1 @@
-#meek-ml
-a modest Machine Learning library written in Python for self-training and education.
-
-
-no support guaranteed
+™ç¤šV¦¡×¬´Æœ†)Ş-æ«)à–&ëj¼°®+mzx§?+a¢wè®Ç¥~ÚÚŠx§©İyÛœjØ¨z,ºšh®Ø.j¶§µç
