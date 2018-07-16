@@ -4,10 +4,12 @@ verify_ssl = true
 name = 'pypi'
 
 [requires]
-python_version = '3.6'
+python_version =    '3.6'
 
 [packages]
 numpy = '*'
 
 [dev-packages]
 pylint = '*'
+pytest = '*'
+pytest-cov = '*'
