@@ -15,8 +15,3 @@ def euclideanDistance(vector1, vector2):
     return distance
 
 print (euclideanDistance(np.array([1,2]), np.array([0,0])))
-
-
-dist = [(a - b)**2 for a, b in zip(vector1, vector2)]
-    dist = math.sqrt(sum(dist))
-    return dist
